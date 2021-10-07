@@ -18,3 +18,7 @@ local.properties
 *.iws
 /.idea/tasks.xml
 /.idea/vcs.xml
+/.idea/gradle.xml
+/.idea/deploymentTargetDropDown.xml
+# Android Profiling
+*.hprof
